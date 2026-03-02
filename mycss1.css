@@ -1,0 +1,60 @@
+body {
+    background-color: #feecec;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+#bikinnengah {
+    text-align: center;
+    font-size: xx-small;
+
+}
+
+.bikinnengah2 {
+    text-align: center;
+    font-size: xx-small;
+
+}
+
+.judulberita {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(255, 120, 143)
+}
+
+.footerbold {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:link {
+    text-decoration: none;
+    color: rgb(255, 120, 143)
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(255, 120, 143)
+}
+
+a:visited {
+    text-decoration: none;
+    color: rgb(255, 120, 143)
+}
+
+.judulgambar {
+    text-align: center;
+    font-size: xx-small;
+}
+
+.formatgambar {
+    border-radius: 5px;
+    box-shadow: 0px 4px 10px 2px rgb(202, 192, 194);
+}
